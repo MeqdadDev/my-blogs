@@ -1,6 +1,9 @@
 # My Bloticles
 My **Blo**gs and Ar**ticles**
 
+### Stop Creating Repos To Share Your Code Snippets - Use GitHub Gists Instead
+[**GitHub**](https://gist.github.com/MeqdadDev/b4f9b2987d3f34da00a3a416660b8918) | [**Medium**](https://medium.com/@meqdad.dev/stop-creating-repos-to-share-your-code-snippets-use-github-gists-instead-1708b3bd27dd) | [**Dev.to**](https://dev.to/meqdad_dev/stop-creating-repos-to-share-your-code-snippets-use-github-gists-instead-4j5c)
+
 ### Lessons I’ve Learned: 10 Tips for Successful Open-Source Project Development
 [**GitHub**](https://gist.github.com/MeqdadDev/92f70ac7227bc4d4689142006d81d78d) | [**Medium**](https://medium.com/@meqdad.dev/lessons-ive-learned-10-tips-for-successful-open-source-project-development-38a166fa0a13) | [**Dev.to**](https://dev.to/meqdad_dev/lessons-ive-learned-10-tips-for-successful-open-source-project-development-5dl9)
 
