@@ -2,6 +2,9 @@
 
 My **Blo**gs and Ar**ticles**
 
+### Context Managers Demystified: Simplify Your Resource Handling in Python
+[**GitHub**](https://gist.github.com/MeqdadDev/d6728dd03c97688efd9b096c991b1ad3) | [**Dev.to**](https://dev.to/meqdad_dev/context-managers-demystified-simplify-your-resource-handling-in-python-4lc0)
+
 ### Stop Creating Repos To Share Your Code Snippets - Use GitHub Gists Instead
 [**GitHub**](https://gist.github.com/MeqdadDev/b4f9b2987d3f34da00a3a416660b8918) | [**Medium**](https://medium.com/@meqdad.dev/stop-creating-repos-to-share-your-code-snippets-use-github-gists-instead-1708b3bd27dd) | [**Dev.to**](https://dev.to/meqdad_dev/stop-creating-repos-to-share-your-code-snippets-use-github-gists-instead-4j5c)
 
