@@ -2,6 +2,9 @@
 
 My **Blo**gs and Ar**ticles**
 
+### ACID Properties in Databases: What Happens Without Them?
+[**GitHub**](https://gist.github.com/MeqdadDev/18c19896a9e801f51fbe904c38f3e996) | [**Medium**](https://medium.com/@meqdad.dev/acid-properties-in-databases-what-happens-without-them-c754e4bb4c1d) | [**Dev.to**](https://dev.to/meqdad_dev/acid-properties-in-databases-what-happens-without-them-3o64)
+
 ### Context Managers Demystified: Simplify Your Resource Handling in Python
 [**GitHub**](https://gist.github.com/MeqdadDev/d6728dd03c97688efd9b096c991b1ad3) | [**Medium**](https://medium.com/@meqdad.dev/context-managers-demystified-simplify-your-resource-handling-in-python-2394a9442c18) | [**Dev.to**](https://dev.to/meqdad_dev/context-managers-demystified-simplify-your-resource-handling-in-python-4lc0)
 
