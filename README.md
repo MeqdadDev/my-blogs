@@ -2,6 +2,9 @@
 
 My **Blo**gs and Ar**ticles**
 
+### ACID Properties in Databases: Your Shield Against Transactional Chaos
+[**Dev.to**](https://dev.to/meqdad_dev/acid-properties-in-databases-your-shield-against-transactional-chaos-36ah)
+
 ### ACID Properties in Databases: What Happens Without Them?
 [**GitHub**](https://gist.github.com/MeqdadDev/18c19896a9e801f51fbe904c38f3e996) | [**Medium**](https://medium.com/@meqdad.dev/acid-properties-in-databases-what-happens-without-them-c754e4bb4c1d) | [**Dev.to**](https://dev.to/meqdad_dev/acid-properties-in-databases-what-happens-without-them-3o64)
 
